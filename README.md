@@ -1,4 +1,4 @@
-## 앱 RISE 의 서버
+## 앱 RISE 의 서버 일부 기능
 
 /isimage 엔드포인트로 REST API 통신 POST 형식의 통신을 해서 이미지를 받는다.
 
